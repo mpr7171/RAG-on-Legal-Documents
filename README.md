@@ -46,6 +46,14 @@ The RAG system enhances legal document processing for:
 
 ---
 
+## 👨‍💻 Team Members
+
+- **Arnab Biswas**  
+- **Bhim Singh**  
+- **Maddi Pranav Reddy**
+
+---
+
 ### 📊 Dataset Statistics
 - **Total Documents:** 698  
 - **Avg Length:** 16,188 words  
