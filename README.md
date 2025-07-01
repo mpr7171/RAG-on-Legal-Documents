@@ -76,7 +76,7 @@ The RAG system enhances legal document processing for:
 
 ### 3. RAG Pipeline Setup
 - **LangChain**-based architecture
-- **Text Splitter:** RecursiveCharacterTextSplitter (chunk=1000, overlap=200)
+- **Text Splitter:** RecursiveCharacterTextSplitter (chunk_size=512, overlap=50)
 - **Embeddings:** OpenAI `text-embedding-3-small`
 - **Vector Store:** ChromaDB
 - **LLM:** gpt-4o-mini
