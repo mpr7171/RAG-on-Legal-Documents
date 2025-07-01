@@ -95,6 +95,8 @@ The RAG system enhances legal document processing for:
 ---
 
 📌 Sample Outputs
+
+
 Q1: Does the NDA grant the Receiving Party rights to Confidential Information?
 → Answer: "No, the Agreement does not grant rights..."
 
